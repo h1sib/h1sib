@@ -52,10 +52,16 @@ I like building things, solving problems, and turning ideas into real projects.
 ---
 
 ## 🌱 Goals for This Year
-🐍 Complete a Python project from scratch 🌐 Launch my first website live on the     internet
+🐍 Complete a Python project from scratch 
+
+🌐 Launch my first website live on the     internet
+
 ⚡ Build something in C++
+
 📦 Publish  5+ repos on GitHub 
-🤝 Contribute to an open source project 
+
+🤝 Contribute to an open source project
+
 🎓 Keep learning every single day
 
 ---
