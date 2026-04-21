@@ -9,27 +9,13 @@
 <br/><br/>
 
 </div>
-
 ---
-
 ## 🧠 About Me
 
-\```python
-class Developer:
-    def __init__(self):
-        self.name       = h1sib
-        self.role       = "Beginner Developer → Future Engineer"
-        self.currently  = "Learning the fundamentals 📚"
-        self.goal       = "Build something big that matters 🌍"
-        self.interests  = ["Coding", "Problem Solving", "Engineering"]
+I'm a beginner developer on the path to becoming an engineer.  
+Right now, I'm focused on learning the fundamentals — Python, C++, and web development.
 
-    def say_hi(self):
-        print("Thanks for stoping by!🚀")
-
-me = Developer()
-me.say_hi()
-\```
-
+I like building things, solving problems, and turning ideas into real projects.
 
 ## 🛠️ Tech Stack
 
@@ -70,12 +56,10 @@ me.say_hi()
 ---
 
 ## 🌱 Goals for This Year
-
-- [ ] 🐍 Complete a Python project from scratch
-- [ ] 🌐 Launch my first website live on the internet
-- [ ] ⚡ Build something in C++
-- [ ] 📦 Publish  5+ repos on GitHub
-- [ ] 🤝 Contribute to an open source project
-- [ ] 🎓 Keep learning every single day
+🐍 Complete a Python project from scratch 🌐 Launch my first website live on the     internet
+⚡ Build something in C++
+📦 Publish  5+ repos on GitHub 
+🤝 Contribute to an open source project 
+🎓 Keep learning every single day
 
 ---
