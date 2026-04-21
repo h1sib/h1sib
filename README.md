@@ -9,8 +9,7 @@
 <br/><br/>
 
 </div>
----
-## 🧠 About Me
+🧠 About Me
 
 I'm a beginner developer on the path to becoming an engineer.  
 Right now, I'm focused on learning the fundamentals — Python, C++, and web development.
