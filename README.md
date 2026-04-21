@@ -44,14 +44,11 @@ I like building things, solving problems, and turning ideas into real projects.
 
 ---
 
-## 🗺️ My Coding Journey
-
-\```
-
 ## 🚀 Current Projects
 
-> 🔭 **Secret Project** — *[Something cool I'm building... stay tuned!]*
-> 🌱 **Personal Website** — Building my corner of the internet with HTML & CSS
+🔭 **Secret Project** — *[Something cool I'm building... stay tuned!]*
+
+🌱 **Personal Website** — Building my corner of the internet with HTML & CSS
 
 ---
 
