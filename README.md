@@ -12,7 +12,7 @@
 🧠 About Me
 
 I'm a beginner developer on the path to becoming an engineer.  
-Right now, I'm focused on learning the fundamentals — Python, C++, and web development.
+Right now, I'm focused on learning the fundamentals — C,Python, C++,Rust and web development.
 
 I like building things, solving problems, and turning ideas into real projects.
 
